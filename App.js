@@ -12,7 +12,7 @@ export default function App() {
         <Text style={{
           fontSize: 34,
           fontWeight: 'bold'
-        }}>Sign Up</Text>
+        }}>Sign up</Text>
         <TextInput style={{
           height: 64,
           width: 320,
